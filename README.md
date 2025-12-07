@@ -9,10 +9,10 @@ Proiectul include:
 
 
   Pac- Man este controlat folosing sagetile:
-  -stanga
-  -dreapta
-  -sus
-  -jos
+  - stanga
+  - dreapta
+  - sus
+  - jos
 
   Scopul jocului: sa mananci *toate punctele albe* din labirint
   Daca atingi o fantoma -> GAME OVER
