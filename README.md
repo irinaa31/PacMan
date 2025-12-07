@@ -15,6 +15,10 @@ Proiectul include:
   - jos
 
   Scopul jocului: sa mananci *toate punctele albe* din labirint
+
   Daca atingi o fantoma -> GAME OVER
+
   Daca reusesti sa mananci toate punctele fara a fi atins de o fantoma-> WIN
+
+
   Repornirea jocului se poate face apasand tasta **R**
